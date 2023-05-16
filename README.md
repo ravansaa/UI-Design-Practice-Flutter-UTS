@@ -12,11 +12,11 @@ This project is an assignment from my class
 ![Gambar](img/login.gif)
 ### Pertama Pembuatan Package
 Membuat package pages dan shared dan masing masing di buat file pages = pages.dart & welcome_pages.dart, shared = shared.dart & theme_shared.dart
-![Gambar](img/ss1.png)
+### ![Gambar](img/ss1.png)
 ### Mencantumkan dependensi yang diperlukan oleh proyek Flutter. 
 yaitu versi cupertino_icons ^1.0.2. Paket ini menyediakan font ikon Cupertino untuk ikon bergaya iOS di aplikasi Flutter. Selain itu, ada daftar dependensi google_fonts versi ^4.0.4, yang memungkinkan Anda untuk menggunakan font khusus dalam aplikasi.
-![Gambar](img/ss2.png)
-![Gambar](img/ss3.png)
+### ![Gambar](img/ss2.png)
+### ![Gambar](img/ss3.png)
 Menambahkan jalur direktori Assets
 
 ### Membuat file shared dan theme_shared
